@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['94767939688', 'Dinuwa Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
-  [''] 
+  ['+9471 937 0832','mr nadil', true] 
 ] //Number of owners
 
 global.mods = ['94767939688','94767939688'] 
